@@ -46,7 +46,7 @@ for index, match in enumerate(summary, start=1):
     score = " - ".join(str(s) for s in match[1])
     print(f"{index}. {teams} {score}")
 Testing
-The code includes a set of test cases using the JUnit framework to verify the functionality of the Scoreboard class. The tests cover starting games, updating scores, finishing games, and getting the summary. You can run the tests using a testing framework such as JUnit.
+The code includes a set of test cases using the unittest framework in Python to verify the functionality of the Scoreboard class. The tests cover starting games, updating scores, finishing games, and getting the summary. You can run the tests using a testing framework such as JUnit.
 
 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
