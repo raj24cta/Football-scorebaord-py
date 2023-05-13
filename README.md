@@ -1,5 +1,5 @@
 # Football-scorebaord-py
-Live Football World Cup Scoreboard
+Live Football World Cup Scoreboad
 This is a simple library implementation of a Live Football World Cup Scoreboard. It allows you to track ongoing matches, update scores, and retrieve a summary of the matches based on their scores.
 
 Features
