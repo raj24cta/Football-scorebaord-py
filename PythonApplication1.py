@@ -45,3 +45,9 @@ summary = scoreboard.get_summary()
 for match in summary:
     print(f"{match.home_team} {match.home_score} - {match.away_team} {match.away_score}")
 
+Summary in order
+Uruguay 6 - Italy 6
+Spain 10 - Brazil 2
+Mexico 0 - Canada 5
+Argentina 3 - Australia 1
+Germany 2 - France 2
